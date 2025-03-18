@@ -2,7 +2,54 @@
     font-family: 'Iron Man';
     src: url(Stark.otf);
 }
-
-.title{
+.Iron{
+    font-size: 200px;
+    border-radius: 1px;
+    /* Extra is border radius. */
+}
+#fanart{
+    padding: 1px;
+}
+body{
     font-family: 'Iron Man', sans-serif;
+}
+.intro{
+    display: block;
+    width: 1000px;
+    height: 875px;
+    background-color: #FF0000;
+    border-color: #000000;
+    border-width: 10px;
+    border-style: solid;
+    padding: 5px;
+}
+.lasercannons{
+    display: inline-block;
+    width: 1000px;
+    height: 700px;
+    background-color: #FFD700;
+    border-color: #000000;
+    border-width: 10px;
+    border-style: solid;
+    padding: 5px;
+}
+.inthesky{
+    display: inline-block;
+    width: 1000px;
+    height: 750px;
+    background-color: #C0C0C0;
+    border-color: #000000;
+    border-width: 10px;
+    border-style: solid;
+    padding: 5px;
+}
+.fanart{
+    display: inline-block;
+    width: 1000px;
+    height: 675px;
+    background-color: #00FFFF;
+    border-color: #000000;
+    border-width: 10px;
+    border-style: solid;
+    padding: 5px;
 }
