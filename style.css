@@ -2,10 +2,14 @@
     font-family: 'Iron Man';
     src: url(Stark.otf);
 }
+a {
+    color: #1e90ff;
+    /* Link Styling */
+}
 .Iron{
     font-size: 200px;
     border-radius: 1px;
-    /* Extra is border radius. */
+    /* Extra is border radius for heading */
 }
 #fanart{
     padding: 1px;
@@ -13,6 +17,8 @@
 body{
     font-family: 'Iron Man', sans-serif;
 }
+
+/* Display styling for everything under this. */
 .intro{
     display: block;
     width: 1000px;
